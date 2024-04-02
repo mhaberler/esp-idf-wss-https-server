@@ -1,1 +1,6 @@
 build
+.vscode
+untracked
+sdkconfig
+sdkconfig.old
+wss_server.code-workspace
